@@ -1,0 +1,9 @@
+name = "simple" 
+age = 17
+gpa = 3.2
+is_tall = false     # boolean -> True/False
+
+name = "hard"
+
+puts "your name is #{name}"
+puts "your name is " + name
